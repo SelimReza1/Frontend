@@ -8,10 +8,13 @@
     <title>psd to html part1</title>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
+<!--header area start-->
 <header>
     <div class="header-area">
         <div class="container">
@@ -52,6 +55,42 @@
         </div>
     </div>
 </header>
+<!--header area end-->
 
+<!--slider area start-->
+<div class="slider-area">
+    <div class="active-slide owl-carousel">
+    <div class="single-slide fix" style="background-image:url(img/normal.jpg);width: 100%" >
+    <h4>Work Hard</h4>
+    <h2>Dream Big</h2>
+        <a href="#">Get Started</a>
+    </div>
+        <div class="single-slide fix" style="background-image:url(img/normal.jpg);width: 100%" >
+            <h4>Work Hard</h4>
+            <h2>Dream Big</h2>
+            <a href="#">Get Started</a>
+        </div>
+        <div class="single-slide fix" style="background-image:url(img/normal.jpg);width: 100%" >
+            <h4>Work Hard</h4>
+            <h2>Dream Big</h2>
+            <a href="#">Get Started</a>
+        </div>
+        <div class="single-slide fix" style="background-image:url(img/normal.jpg);width: 100%" >
+            <h4>Work Hard</h4>
+            <h2>Dream Big</h2>
+            <a href="#">Get Started</a>
+        </div>
+        <div class="single-slide fix" style="background-image:url(img/normal.jpg);width: 100%" >
+            <h4>Work Hard</h4>
+            <h2>Dream Big</h2>
+            <a href="#">Get Started</a>
+        </div>
+    </div>
+
+</div>
+
+<script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="js/active.js"></script>
 </body>
 </html>

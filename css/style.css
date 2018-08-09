@@ -1,6 +1,9 @@
 *{margin: 0;padding: 0;box-sizing: border-box}
 body{font-family: 'Lato', sans-serif;  }
 a{transition: .3s}
+.fix{
+    overflow: hidden;
+}
 .header-area{
     border-top: 5px solid #4272d7 ;
     min-height: 120px;
@@ -96,4 +99,81 @@ ul{margin: 0;padding: 0;list-style: none}
 }
 .main-menu ul li ul.submenu li:hover >a{
     background: #4272D7;
+}
+
+/*slider area*/
+.slider-area{
+    width: 100%;
+    overflow: hidden;
+}
+.single-slide{
+    padding: 150px 0;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.single-slide h4{
+    color: white;
+    font-size: 30px;
+}
+.single-slide h2{
+    color: white;
+    font-size: 72px;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+.single-slide a{
+    color: white;
+    background: #4272d7;
+    text-decoration: none;
+    padding: 20px 40px;
+    display: inline-block;
+}
+.active-slide .owl-nav button.owl-prev{
+    background: red;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    text-align: center;
+    color: #fff;
+    line-height: 40px;
+    font-size: 25px;
+}
+.active-slide .owl-nav button.owl-next{
+    background: red;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    text-align: center;
+    color: #fff;
+    line-height: 40px;
+    font-size: 25px;
+    right: 0;
+    left:auto;
+}
+
+.active-slide .owl-dots button.owl-dot{
+    background: red;
+    height: 10px;
+    width: 10px;
+    display: inline-block;
+    margin: 0 2px;
+    border-radius: 100%;
+}
+
+.active-slide .owl-dots{
+    text-align: center;
+    margin-top: -21px;
+    position: relative;
+    z-index: 999;
+    bottom: 30px;
+}
+.active-slide .owl-dots button.owl-dot.active{
+    background: blue;
 }
