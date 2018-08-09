@@ -86,8 +86,182 @@
             <a href="#">Get Started</a>
         </div>
     </div>
-
 </div>
+<!--slider area end-->
+
+<!--cta area start-->
+<div class="cta-area fix">
+    <div class="container fix">
+        <div class="row">
+        <div class="col-8">
+        <div class="cta-text">
+            <p>We have completed more than <span>100</span> project for our amazing client,
+            if you interested?</p>
+        </div>
+        </div>
+        <div class="col-4">
+        <div class="cta-button">
+            <a href="#">Hire Us</a>
+        </div>
+        </div>
+    </div>
+    </div>
+</div>
+<!--cta area end-->
+
+<!--features area start-->
+<div class="features-area fix">
+    <div class="container fix">
+        <div class="row fix">
+            <div class="col-4">
+                <div class="single-features">
+                    <div class="features-img">
+                        <img src="img/service/service2.jpg" alt="service1" />
+                    </div>
+                    <div class="features-content">
+                        <div class="features-icon">
+                            <i class="far fa-chart-bar"></i>
+                            <h3>Top investment advisors</h3>
+                        </div>
+                        <p>
+                            Bangladesh is our motherland but we are not a innocent public
+                            that's why we face more and more problem internally and extarnall
+                            yeah
+                        </p>
+                        <a href="#"><i class="fas fa-plus-square"></i>read more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="single-features">
+                    <div class="features-img">
+                        <img src="img/service/service2.jpg" alt="service1" />
+                    </div>
+                    <div class="features-content">
+                        <div class="features-icon">
+                            <i class="far fa-chart-bar"></i>
+                            <h3>Top investment advisors</h3>
+                        </div>
+                        <p>
+                            Bangladesh is our motherland but we are not a innocent public
+                            that's why we face more and more problem internally and extarnall
+                            yeah
+                        </p>
+                        <a href="#"><i class="fas fa-plus-square"></i>read more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="single-features">
+                    <div class="features-img">
+                        <img src="img/service/service2.jpg" alt="service1" />
+                    </div>
+                    <div class="features-content">
+                        <div class="features-icon">
+                            <i class="far fa-chart-bar"></i>
+                            <h3>Top investment advisors</h3>
+                        </div>
+                        <p>
+                            Bangladesh is our motherland but we are not a innocent public
+                            that's why we face more and more problem internally and extarnall
+                            yeah
+                        </p>
+                        <a href="#"><i class="fas fa-plus-square"></i>read more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--features area end-->
+
+<!--service area start-->
+<div class="service-area fix">
+<div class="container fix">
+    <div class="row fix">
+        <div class="col-12">
+            <div class="section-title">
+                <h2>We are Bemax</h2>
+            </div>
+        </div>
+    </div>
+    <div class="row fix">
+        <div class="col-4">
+            <div class="single-service">
+        <div class="service-icon">
+            <i class="far fa-gem"></i>
+        </div>
+                <div class="service-content">
+                    <h3>Responsive Design</h3>
+                    <p>Design is not a fact if you do hardwork more
+                    and more thats it</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-4">
+            <div class="single-service">
+        <div class="service-icon">
+            <i class="far fa-gem"></i>
+        </div>
+                <div class="service-content">
+                    <h3>Responsive Design</h3>
+                    <p>Design is not a fact if you do hardwork more
+                    and more thats it</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-4">
+            <div class="single-service">
+        <div class="service-icon">
+            <i class="far fa-gem"></i>
+        </div>
+                <div class="service-content">
+                    <h3>Responsive Design</h3>
+                    <p>Design is not a fact if you do hardwork more
+                    and more thats it</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-4">
+            <div class="single-service">
+        <div class="service-icon">
+            <i class="far fa-gem"></i>
+        </div>
+                <div class="service-content">
+                    <h3>Responsive Design</h3>
+                    <p>Design is not a fact if you do hardwork more
+                    and more thats it</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-4">
+            <div class="single-service">
+        <div class="service-icon">
+            <i class="far fa-gem"></i>
+        </div>
+                <div class="service-content">
+                    <h3>Responsive Design</h3>
+                    <p>Design is not a fact if you do hardwork more
+                    and more thats it</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-4">
+            <div class="single-service">
+        <div class="service-icon">
+            <i class="far fa-gem"></i>
+        </div>
+                <div class="service-content">
+                    <h3>Responsive Design</h3>
+                    <p>Design is not a fact if you do hardwork more
+                    and more thats it</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<!--service area end-->
 
 <script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
 <script type="text/javascript" src="js/owl.carousel.min.js"></script>
